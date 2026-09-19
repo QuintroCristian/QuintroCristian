@@ -75,8 +75,8 @@ Actualmente trabajo con Angular, Dynamics 365, .NET y Azure. También disfruto e
 <div align="center">
 
 <!-- Reemplaza QuintroCristian por tu nombre de usuario si cambia. -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=QuintroCristian&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Estadísticas de GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuintroCristian&layout=compact&hide_border=true&theme=transparent" alt="Lenguajes más utilizados" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QuintroCristian&theme=github_dark" alt="Estadísticas de GitHub" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuintroCristian&theme=github_dark" alt="Repositorios por lenguaje" />
 
 </div>
 
@@ -93,5 +93,4 @@ Actualmente trabajo con Angular, Dynamics 365, .NET y Azure. También disfruto e
 <a href="https://github.com/QuintroCristian">![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)</a>
 
 ---
-
 
