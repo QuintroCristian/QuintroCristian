@@ -62,7 +62,6 @@ Actualmente trabajo con Angular, Dynamics 365, .NET y Azure. También disfruto e
 
 ## Proyectos destacados
 
-> Reemplaza los enlaces de ejemplo por tus repositorios principales.
 
 | Proyecto | Descripción | Tecnologías |
 | --- | --- | --- |
@@ -74,7 +73,7 @@ Actualmente trabajo con Angular, Dynamics 365, .NET y Azure. También disfruto e
 
 <div align="center">
 
-<!-- Reemplaza QuintroCristian por tu nombre de usuario si cambia. -->
+
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QuintroCristian&theme=github_dark" alt="Estadísticas de GitHub" />
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuintroCristian&theme=github_dark" alt="Repositorios por lenguaje" />
 
